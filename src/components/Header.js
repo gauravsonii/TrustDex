@@ -10,6 +10,7 @@ function Header(props) {
     <header>
       <div className="leftH">
         <img src={Logo} alt="logo" className='logo' />
+        <div className="headerItem" style={{fontWeight: 'bold', fontSize: '18px', marginRight: '20px'}}>Trust DEX</div>
         <Link to="/" className="link">
         <div className="headerItem">Swap</div>
         </Link>
