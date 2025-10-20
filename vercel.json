@@ -1,0 +1,6 @@
+{
+  "buildCommand": "cd dex && npm run build",
+  "outputDirectory": "dex/build",
+  "installCommand": "cd dex && npm install",
+  "devCommand": "cd dex && npm start"
+}
