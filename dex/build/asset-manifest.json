@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/static/css/main.3b8af14b.css",
+    "main.js": "/static/js/main.e7f8e705.js",
+    "static/media/moralis-logo.svg": "/static/media/moralis-logo.aa658eaa416895465a8fcf129380ab15.svg",
+    "index.html": "/index.html",
+    "static/media/eth.svg": "/static/media/eth.df265e367364f285053a1285ad8d418d.svg",
+    "main.3b8af14b.css.map": "/static/css/main.3b8af14b.css.map",
+    "main.e7f8e705.js.map": "/static/js/main.e7f8e705.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3b8af14b.css",
+    "static/js/main.e7f8e705.js"
+  ]
+}
